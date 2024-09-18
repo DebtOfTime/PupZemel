@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d74df8af-8927-4326-8c27-8ecdc5a57eef" name="Changes" comment="prob">
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    <list default="true" id="d74df8af-8927-4326-8c27-8ecdc5a57eef" name="Changes" comment="prob1">
+      <change afterPath="$PROJECT_DIR$/src/par1/Main1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/par1/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +43,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Main1Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/10220455/Documents/GitHub/PupZemel",
+    "last_opened_file_path": "C:/Users/10220455/Documents/GitHub/PupZemel/src",
     "onboarding.tips.debug.path": "C:/Users/10220455/Desktop/PupZemel/src/Main.kt",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\10220455\Documents\GitHub\PupZemel\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\10220455\Documents\GitHub\PupZemel\src\par1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,21 +69,36 @@
       <option name="presentableId" value="Default" />
       <updated>1726660647444</updated>
     </task>
+    <task id="LOCAL-00001" summary="prob">
+      <option name="closed" value="true" />
+      <created>1726663254433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726663254433</updated>
+    </task>
+    <task id="LOCAL-00002" summary="prob">
+      <option name="closed" value="true" />
+      <created>1726664181439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726664181439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="prob1">
+      <option name="closed" value="true" />
+      <created>1726664236565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726664236565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prob" />
-    <option name="LAST_COMMIT_MESSAGE" value="prob" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Main.kt</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="prob1" />
+    <option name="LAST_COMMIT_MESSAGE" value="prob1" />
   </component>
 </project>
