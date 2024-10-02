@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d74df8af-8927-4326-8c27-8ecdc5a57eef" name="Changes" comment="1challenge">
-      <change afterPath="$PROJECT_DIR$/src/par1/Main2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/par1/Main3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/par1/Main4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/par1/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/par1/Main6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +32,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="2758d491-54e5-4479-89b3-cb64a4647044" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/DebtOfTime/PupZemel.git&quot;,
-    &quot;accountId&quot;: &quot;2758d491-54e5-4479-89b3-cb64a4647044&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DebtOfTime/PupZemel.git",
+    "accountId": "b6893ab6-c016-420b-aeef-6b89eccc6f65"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -55,6 +53,8 @@
     "Kotlin.Main2Kt.executor": "Run",
     "Kotlin.Main3Kt.executor": "Run",
     "Kotlin.Main4Kt.executor": "Run",
+    "Kotlin.Main5Kt.executor": "Run",
+    "Kotlin.Main6Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
