@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d74df8af-8927-4326-8c27-8ecdc5a57eef" name="Changes" comment="jeka challenge">
-      <change afterPath="$PROJECT_DIR$/src/par2/Main5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/par4/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poezd/Poezd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poezd/SamPoezd.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,6 +40,9 @@
     &quot;accountId&quot;: &quot;06dd882e-5a06-43d4-97a7-7bb1dcb83252&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -48,23 +52,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.Main1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main4Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main5Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main6Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ReadMeKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/10220455/Documents/GitHub/PupZemel&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/10220455/Desktop/PupZemel/src/Main.kt&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Main1Kt.executor": "Run",
+    "Kotlin.Main2Kt.executor": "Run",
+    "Kotlin.Main3Kt.executor": "Run",
+    "Kotlin.Main4Kt.executor": "Run",
+    "Kotlin.Main5Kt.executor": "Run",
+    "Kotlin.Main6Kt.executor": "Run",
+    "Kotlin.PoezdKt.executor": "Run",
+    "Kotlin.ReadMeKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/10220455/Documents/GitHub/PupZemel",
+    "onboarding.tips.debug.path": "C:/Users/10220455/Desktop/PupZemel/src/Main.kt",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\10220455\Documents\GitHub\PupZemel\src" />
