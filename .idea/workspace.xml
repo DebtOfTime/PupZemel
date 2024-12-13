@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d74df8af-8927-4326-8c27-8ecdc5a57eef" name="Changes" comment="jeka challenge">
-      <change afterPath="$PROJECT_DIR$/src/Piza/Drink.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piza/Pizza.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piza/PizzaCity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piza/PizzaMoscow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piza/PizzaPeter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
